@@ -5,6 +5,8 @@ description: Lecture notes on promises and consequences, a class participation e
 file: /courses/pe-550-designing-your-life-spring-2009/447cbde7199f45656b22fea1833532c0_MITPE_550iap09_s09_lec01.pdf
 file_size: 101367
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

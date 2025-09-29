@@ -5,6 +5,8 @@ description: Lecture notes on theories, purges, and thought logs, a class partic
 file: /courses/pe-550-designing-your-life-spring-2009/49874f6ec01d74595739b61792e9a674_MITPE_550iap09_s09_lec03.pdf
 file_size: 97788
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

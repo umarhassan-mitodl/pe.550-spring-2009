@@ -5,6 +5,8 @@ description: Homework assignment on identifying and recording haunting incidents
 file: /courses/pe-550-designing-your-life-spring-2009/6abb0753e6900409aa480895f553a452_MITPE_550iap09_s09_assn06.pdf
 file_size: 61492
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

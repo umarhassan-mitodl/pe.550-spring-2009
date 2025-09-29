@@ -5,6 +5,8 @@ description: Lecture notes on parent traits, a class participation exercise, and
 file: /courses/pe-550-designing-your-life-spring-2009/abfd21267e8b828dd579da03534f43f9_MITPE_550iap09_s09_lec05.pdf
 file_size: 22645
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

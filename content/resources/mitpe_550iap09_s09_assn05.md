@@ -5,6 +5,8 @@ description: Homework assignment on identifying parent traits and understanding 
 file: /courses/pe-550-designing-your-life-spring-2009/6a0d67780477a99451feda0a08cab7ff_MITPE_550iap09_s09_assn05.pdf
 file_size: 50851
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

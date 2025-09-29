@@ -4,6 +4,8 @@ description: Homework assignment on analyzing haunting incidents.
 file: /courses/pe-550-designing-your-life-spring-2009/c237424e157e9fe4508e43c435be0a10_MITPE_550iap09_s09_assn07.pdf
 file_size: 52979
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

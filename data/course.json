@@ -23,7 +23,7 @@
     "website": "pe-550-designing-your-life-spring-2009"
   },
   "course_title": "Designing Your Life",
-  "hide_download": false,
+  "hide_download": true,
   "course_description": "This course provides an exciting, eye-opening, and thoroughly useful inquiry into what it takes to live an extraordinary life, on your own terms. The instructors address what it takes to succeed, to be proud of your life, and to be happy in it. Participants tackle career satisfaction, money, body, vices, and relationship to themselves. They learn how to confront issues in their lives, how to live life, and how to learn from it.\n\nA short version of this course meets during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month. Then this semester-long extension of the IAP course is taught to interested members of the MIT community. This not-for-credit course is sponsored by the Department of Science, Technology, and Society. A similar, semester-long version of this course is taught in the Sloan Fellows Program.\n\n##### Acknowledgment\n\nThe instructors would like to thank Prof. David Mindell for his sponsorship of this course, his hopes for its continued expansion, and his commitment to the well-being of MIT students.\n",
   "department_numbers": [
     "PE"
@@ -34,6 +34,7 @@
     "content": "c2f1b52d-c758-e58f-7400-fed37984a090",
     "website": "pe-550-designing-your-life-spring-2009"
   },
+  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Notes",
     "Written Assignments"

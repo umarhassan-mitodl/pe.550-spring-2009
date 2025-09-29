@@ -5,6 +5,8 @@ description: Lecture notes on cleaning up after haunting incidents, a class part
 file: /courses/pe-550-designing-your-life-spring-2009/1982279dc0ee36a0525870d92eeeacef_MITPE_550iap09_s09_lec07.pdf
 file_size: 101710
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

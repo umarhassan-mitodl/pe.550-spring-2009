@@ -5,6 +5,8 @@ description: Assignment to address and rate a variety of areas of your life. Thi
 file: /courses/pe-550-designing-your-life-spring-2009/55a7b33dda5f568a9518a91bbfb9dbb0_MITPE_550iap09_s09_assn01_iap07.pdf
 file_size: 124964
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

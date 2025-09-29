@@ -5,6 +5,8 @@ description: Lecture notes on excuses for not keeping promises, a class particip
 file: /courses/pe-550-designing-your-life-spring-2009/ab59df6f427f24c777f23766935dc667_MITPE_550iap09_s09_lec04.pdf
 file_size: 23747
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

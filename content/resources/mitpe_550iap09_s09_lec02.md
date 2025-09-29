@@ -6,6 +6,8 @@ description: Lecture notes on theories you have about the way the world works, h
 file: /courses/pe-550-designing-your-life-spring-2009/edba3fa14560c8819d2e9ec4fd3c5878_MITPE_550iap09_s09_lec02.pdf
 file_size: 98597
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

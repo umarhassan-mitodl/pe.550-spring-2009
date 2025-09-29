@@ -5,6 +5,8 @@ description: Lecture notes on haunting incidents and confessions, a class partic
 file: /courses/pe-550-designing-your-life-spring-2009/a9129e7640805f0bec2d03b17bd12498_MITPE_550iap09_s09_lec06.pdf
 file_size: 26658
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

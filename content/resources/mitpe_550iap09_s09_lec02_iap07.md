@@ -5,6 +5,8 @@ description: Lecture notes on how your history relates to your issues and excuse
 file: /courses/pe-550-designing-your-life-spring-2009/b22b0550745d4f7ea0c1fe1510d0db05_MITPE_550iap09_s09_lec02_iap07.pdf
 file_size: 75717
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
