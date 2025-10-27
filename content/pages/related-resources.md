@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides a list of books, web sites, and videos on topics
   related to the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -22,13 +20,13 @@ Rand, Ayn. _Fountainhead_. New York, NY: Plume, 2005. ISBN: 9780452286757.
 Web Sites
 ---------
 
-[Handel Group](http://www.handelgroup.com/)
+{{% resource_link "7b917b18-f309-4fdd-94f0-9b1a1dfa986f" "Handel Group" %}}
 
-The [blog](http://frameshiftcoaching.wordpress.com/) of teaching assistant Dr. Samantha Sutton
+The {{% resource_link "43ac4bac-3197-4bfe-a810-c6b8b2573fe4" "blog" %}} of teaching assistant Dr. Samantha Sutton
 
-[From biologist to life coach](http://chronicle.com/article/From-Biologist-to-Life-Coach/48938/): an article by Susan Basalla May about how the class changes participants' lives
+{{% resource_link "5424b8a4-74e1-4c84-9041-66737fca2461" "From biologist to life coach" %}}: an article by Susan Basalla May about how the class changes participants' lives
 
 Videos
 ------
 
-[Living an Extraordinary Life](http://techtv.mit.edu/videos/311-span-classhighlightlivingspan-span-classhig)
+{{% resource_link "54e100bb-0fd3-48bd-ad86-3be9aebc30e0" "Living an Extraordinary Life" %}}
